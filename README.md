@@ -34,11 +34,13 @@ This backup is provided by [Klipper-Backup](https://github.com/Staubgeborener/Kl
 
 ## Mods 🔧
 
- - Pin Mod
- - BFI and BZI
- - Dragon Burner V8
- - Sherpa Mini
- - GE5C Bearing Mod on Z Axis
- - Y Endstop Relocation
- - Nevermore
+ - Pin Mod                                   https://mods.vorondesign.com/details/C8XJJ0fBGfBFKQZctjKeA
+ - BFI and BZI                               https://github.com/clee/VoronBFI
+ - Dragon Burner V8                          https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner
+ - Sherpa Mini                               https://github.com/Annex-Engineering/Sherpa_Mini-Extruder
+ - GE5C Bearing Mod on Z Axis                https://mods.vorondesign.com/details/eB5T2RNQcYI4o6cilhpXEg
+ - Y Endstop Relocation                      (In Pin Mod Files)
+ - Nevermore                                 https://github.com/nevermore3d/Nevermore_Micro
+ - Umbilical                                 https://www.printables.com/model/555594-v24-pg7-umbilical-one-screw-voron-logo
+ - Horizontal Z Chain                        https://www.printables.com/model/955410-voron-24-horizontal-z-axis-cable-chain-mod
 
