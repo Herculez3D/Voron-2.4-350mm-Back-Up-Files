@@ -34,13 +34,20 @@ This backup is provided by [Klipper-Backup](https://github.com/Staubgeborener/Kl
 
 ## Mods 🔧
 
- - Pin Mod                                   https://mods.vorondesign.com/details/C8XJJ0fBGfBFKQZctjKeA
- - BFI and BZI                               https://github.com/clee/VoronBFI
- - Dragon Burner V8                          https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner
- - Sherpa Mini                               https://github.com/Annex-Engineering/Sherpa_Mini-Extruder
- - GE5C Bearing Mod on Z Axis                https://mods.vorondesign.com/details/eB5T2RNQcYI4o6cilhpXEg
- - Y Endstop Relocation                      (In Pin Mod Files)
- - Nevermore                                 https://github.com/nevermore3d/Nevermore_Micro
- - Umbilical                                 https://www.printables.com/model/555594-v24-pg7-umbilical-one-screw-voron-logo
- - Horizontal Z Chain                        https://www.printables.com/model/955410-voron-24-horizontal-z-axis-cable-chain-mod
+ - Pin Mod -                                 https://mods.vorondesign.com/details/C8XJJ0fBGfBFKQZctjKeA
+ - BFI and BZI -                             https://github.com/clee/VoronBFI
+ - Dragon Burner V8 -                        https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner
+ - Sherpa Mini -                             https://github.com/Annex-Engineering/Sherpa_Mini-Extruder
+ - GE5C Bearing Mod on Z Axis -              https://mods.vorondesign.com/details/eB5T2RNQcYI4o6cilhpXEg
+ - Y Endstop Relocation -                    (In Pin Mod Files)
+ - Nevermore -                               https://github.com/nevermore3d/Nevermore_Micro
+ - Umbilical -                               https://www.printables.com/model/555594-v24-pg7-umbilical-one-screw-voron-logo
+ - Horizontal Z Chain -                      https://www.printables.com/model/955410-voron-24-horizontal-z-axis-cable-chain-mod
 
+## Firmware and Plugins
+
+ - Klipper -                                https://github.com/Klipper3d/klipper
+ - Klipper Adaptive Meshing -               https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging.git
+ - Klipper Screen -                         https://github.com/KlipperScreen/KlipperScreen
+ - LED Effects -                            https://github.com/julianschill/klipper-led_effect
+ - Service Macros -                         https://github.com/Herculez3D/Klipper-Service-Macros
